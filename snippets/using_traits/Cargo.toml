@@ -1,0 +1,7 @@
+[package]
+name = "using_traits"
+version = "0.1.0"
+authors = ["Francesco Piantini <francesco.piantini@gmail.com>"]
+
+[dependencies]
+num-traits = "0.2.2"

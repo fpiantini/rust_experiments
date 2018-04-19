@@ -1,0 +1,8 @@
+[package]
+name = "ch8ex1_vectors"
+version = "0.1.0"
+authors = ["Francesco Piantini <francesco.piantini@gmail.com>"]
+
+[dependencies]
+rand = "0.3.14"
+
