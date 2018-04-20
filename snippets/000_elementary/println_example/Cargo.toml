@@ -1,0 +1,6 @@
+[package]
+name = "println_example"
+version = "0.1.0"
+authors = ["Francesco Piantini <francesco.piantini@thalesgroup.com>"]
+
+[dependencies]
